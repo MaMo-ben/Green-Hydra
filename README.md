@@ -1,6 +1,6 @@
 
 
-## ![Green Hydra] - Hydra compiler  https://img.shields.io/badge/Green%20Hydra%20-1.0-Green.svg
+## ![Green Hydra] - Hydra compiler  (https://img.shields.io/badge/Green%20Hydra%20-1.0-Green.svg)
     Version release : v1.0
     Author : Mamoun Benhafsa TheDev 
     Codename: Pandora's box (pithos)
