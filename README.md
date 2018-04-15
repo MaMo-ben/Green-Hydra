@@ -39,6 +39,8 @@
 
     4º - Run main tool
          `sudo ./start.sh`
+##Vedio :
+[![Vedio](https://www.youtube.com/watch?v=S54lAdnxAyo)]()
 
 
 
