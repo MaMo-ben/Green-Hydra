@@ -38,6 +38,6 @@
 
 
 
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=plastic)](https://www.facebook.com/thedevevil/)
+[![Twitter URL](https://fr.facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-logo.png)](https://www.facebook.com/thedevevil/)
 
 
