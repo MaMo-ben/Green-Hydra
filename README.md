@@ -25,9 +25,6 @@
 ## DEPENDENCIES
     Zenity | Hydra  |
     
-    "venom.sh will download/install all dependencies as they are needed"
-    Adicionally was build venom-main/aux/setup.sh to help you install all
-    venom framework dependencies (metasploit as to be manually installed).
 
 
 ## DOWNLOAD/INSTALL
