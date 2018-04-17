@@ -12,7 +12,7 @@ resize -s 40 92 > /dev/null
 # ---------------------
 if [ $(id -u) != "0" ]; then
   echo "[x] we need to be root to run this script..."
-  echo "[x] execute [ sudo ./venom.sh ] on terminal"
+  echo "[x] execute [ sudo ./start.sh ] on terminal"
   exit
 else
   :
