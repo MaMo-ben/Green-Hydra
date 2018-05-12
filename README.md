@@ -40,7 +40,7 @@
     4º - Run main tool
          `sudo ./start.sh`
 ##Vedio :
-[![Facebook](https://fr.facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-logo.png)](https://www.youtube.com/watch?v=S54lAdnxAyo/)
+https://www.youtube.com/watch?v=S54lAdnxAyo
 
 
 [![Facebook](https://fr.facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-logo.png)](https://www.facebook.com/thedevevil/)
